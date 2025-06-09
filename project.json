@@ -1,0 +1,22 @@
+project {
+title: "Plataforma de Gestão Financeira",
+      content: [
+        "Criei uma aplicação para controle financeiro pessoal e empresarial, com dashboards interativos e categorização automática de despesas.",
+        "Integração com APIs bancárias para importação automática de transações, melhorando a praticidade e confiabilidade dos dados.",
+        "Utilizei gráficos e alertas para ajudar usuários a manter o orçamento em dia e tomar decisões financeiras mais conscientes.",
+        "Implementei arquitetura modular e testes automatizados para garantir qualidade, manutenibilidade e evolução contínua da plataforma.",
+      ],
+      image: "/finance-dashboard.jpg",
+      url: "https://gestaofinanceira.com",
+      demo: "https://finance-demo.vercel.app",
+      tags: [
+        "React",
+        "TypeScript",
+        "Chart.js",
+        "Express",
+        "PostgreSQL",
+        "Tailwind",
+        "Jest",
+        "Docker",
+      ],
+}
